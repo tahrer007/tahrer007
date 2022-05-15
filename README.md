@@ -1,14 +1,15 @@
-### Hi there 👋
-
-<!--
-**tahrer007/tahrer007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h1 align='center'> Hi there 👋, I'm Hope/Amal 😄💚</h1>
+<h2 align='center'> I'm a Full-Stuck Developer </h2>
+<br/>
 - 👀 I’m interested in art, programming, AI and machine learning. <br/>
 - 🌱 I’m currently learning Full-Stack Development. <br/>
 - 💞️ I’m looking to collaborate on creative work. <br/>
 - 📫 How to reach me 
     <a align='center' href="https://www.linkedin.com/in/tahrer-abu-diab-93927512b/">
         <img height="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+    </a> 
+    <a align='left' href="https://www.facebook.com/hopemas97">
+        <img height="20px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />
     </a> 
     <a href="mailto:tahrer_ad@outlook.com">
         <img height="20px" src="https://cdn-icons.flaticon.com/png/512/3296/premium/3296464.png?token=exp=1651597619~hmac=80ac28b7ee7ef179e3f5a1b559e154ea" />
@@ -44,3 +45,8 @@
 
 <br />
 <br />
+
+<!---
+tahrer007/tahrer007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
