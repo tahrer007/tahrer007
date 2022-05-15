@@ -1,9 +1,10 @@
 <h1 align='center'> Hi there 👋, I'm Tahrer  😄💚</h1>
 <h2 align='center'> I'm a Full-Stuck Developer </h2>
 <br/>
-- 👀 I’m interested in technology, programming ,football (Real Madrid fan ![HalaMadridBanerGIF](https://user-images.githubusercontent.com/90850133/168495037-4281c4a8-ec4b-4451-8815-e36f003d9072.gif)
-) and movies 📽️🍿 especially Sci-fi and animation 👽🤖  . <br/>
-- 🌱 I’m currently learning Full-Stack Development. <br/>
+- 👀 I’m interested in technology, programming ,football <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
+and movies 📽️🍿 especially Sci-fi and animation 👽🤖  . <br/>
+- 🌱 I’m currently looking for my first step in the. <br/>
 - 💞️ I’m looking to collaborate on creative work. <br/>
 - 📫 How to reach me 
     <a align='center' href="https://www.linkedin.com/in/tahrer-abu-diab-93927512b/">
