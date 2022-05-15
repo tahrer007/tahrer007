@@ -33,7 +33,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <h3>Front-end : </h3>
+<p align="left"> <h4>Front-end : </h4>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -75,7 +75,7 @@
 
 
 
-<h3>Backend : </h3>
+<h4>Backend : </h4>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -93,7 +93,7 @@
     />
   </a>
   
-  <h3>Tools : </h3>
+  <h4>Tools : </h4>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
