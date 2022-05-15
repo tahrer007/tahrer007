@@ -7,28 +7,25 @@
 - 🌱 I’m currently learning Full-Stack Development. <br/>
 - 💞️ I’m looking to collaborate on creative work. <br/>
 - 📫 How to reach me 
-    <a align='center' href="https://www.linkedin.com/in/amal-mishael">
+    <a align='center' href="https://www.linkedin.com/in/tahrer-abu-diab-93927512b/">
         <img height="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
     </a> 
-    <a align='left' href="https://www.facebook.com/hopemas97">
-        <img height="20px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />
-    </a> 
-    <a href="mailto:mashal.hope@gmail.com">
+    <a href="mailto:tahrer_ad@outlook.com">
         <img height="20px" src="https://cdn-icons.flaticon.com/png/512/3296/premium/3296464.png?token=exp=1651597619~hmac=80ac28b7ee7ef179e3f5a1b559e154ea" />
     </a>
 <br/><br/>
 <p align='center'>
-<a href="https://github.com/HopeMashal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HopeMashal&show_icons=true&include_all_commits=true&theme=dark" alt="Hope's github stats" />
+<a href="https://github.com/tahrer007/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tahrer007&show_icons=true&include_all_commits=true&theme=dark" alt="Hope's github stats" />
 </a>
 <br/><br/>
-<a href="https://github.com/HopeMashal/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HopeMashal&theme=dark" />
+<a href="https://github.com/tahrer007/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahrer007&theme=dark" />
 </a>
 <br/><br/>
-<a href="https://github.com/HopeMashal/github-readme-stats">
+<a href="https://github.com/tahrer007/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HopeMashal&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahrer007&layout=compact&theme=dark" />
 </a>
 </p>
 
