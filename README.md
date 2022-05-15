@@ -1,9 +1,8 @@
 <h1 align='center'> Hi there 👋, I'm Tahrer  😄💚</h1>
 <h2 align='center'> I'm a Full-Stuck Developer </h2>
 <br/>
-- 👀 I’m interested in technology, programming ,  movies 📽️🍿 especially Sci-fi and animation 👽🤖  and football <img src="https://user-images.githubusercontent.com/90850133/168495545-daf3c3c1-66aa-4681-adcb-fa8dc242f072.gif" width="60" height="40" />
-![RealMadridRoyleGIF](https://user-images.githubusercontent.com/90850133/168495545-daf3c3c1-66aa-4681-adcb-fa8dc242f072.gif)
-
+- 👀 I’m interested in technology, programming , movies 📽️🍿 especially Sci-fi and animation 👽🤖  <br/> 
+  and football Real Madrid fan ⚽🏆
  <br/>
  
 - 🌱 I’m currently looking for my first step in the. <br/>
