@@ -3,9 +3,8 @@
 <br/>
 - 👀 I’m interested in technology, programming ,Sci-fi👽🤖 & animation movies 📽️🍿 <br/> 
       and football (Real Madrid fan) ⚽🏆.
- <br/>
+  <br/>
  
-- I’m currently looking for my first step in the. <br/>
 - 🌱 Currently seeking full time jobs where I can use my skills to make the world a better place  while learning from experts.<br/>
 - 📫 If we share the same interests, don't hesitate to contact me
     <a align='center' href="https://www.linkedin.com/in/tahrer-abu-diab-93927512b/">
