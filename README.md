@@ -10,7 +10,7 @@
     <a align='center' href="https://www.linkedin.com/in/tahrer-abu-diab-93927512b/">
         <img height="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
     </a> 
-    <a href="mailto:tahrer_ad@outlook.com"> xxxx
+    <a href="mailto:tahrer_ad@outlook.com"> 
         <img height="20px" src="https://cdn-icons-png.flaticon.com/512/1932/1932975.png" />
     </a>
 <br/><br/>
