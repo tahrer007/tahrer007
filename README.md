@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Tahrer  😄💚</h1>
+<h1 align='center'> Hi there 👋, I'm Tahrer 🤓🤖</h1>
 <h2 align='center'> I'm a Full-Stuck Developer </h2>
 <br/>
 - 👀 I’m interested in technology, programming, Sci-fi👽🤖 & animation movies 📽️🍿 <br/> 
