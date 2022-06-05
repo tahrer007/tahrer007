@@ -6,6 +6,8 @@
   <br/>
  
 - 🌱 Currently seeking full time job where I can use my skills to make the world a better place  while learning from experts.<br/>
+- 👨‍💻 All of my projects are available at [https://portfolio-tahrer.netlify.app/](https://portfolio-tahrer.netlify.app/)
+
 - 📫 If we share the same interests, don't hesitate to contact me
     <a align='center' href="https://www.linkedin.com/in/tahrer-abu-diab-93927512b/">
         <img height="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
