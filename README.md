@@ -2,9 +2,7 @@
 <h2 align='center'> I'm a Full-Stuck Developer </h2>
 <br/>
 -👀 I’m interested in technology, programming, Sci-fi👽🤖 & animation movies 📽️🍿 <br/> 
-      and football (RealMadrid fan)⚽🏆.
-  <br/>
- 
+      and football (RealMadrid fan)⚽🏆.<br/>
 - 🌱 Currently seeking full time job where I can use my skills to make the world a better place  while learning from experts.<br/>
 - 👨‍💻 All of my projects are available at [https://portfolio-tahrer.netlify.app/](https://portfolio-tahrer.netlify.app/)
 
