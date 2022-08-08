@@ -5,7 +5,7 @@
       and football (RealMadrid fan)⚽🏆.<br/>   
       
 - 🌱 Currently seeking full time job where I can use my skills to make the world a better place  while learning from experts.<br/>
-- 
+
 - 👨‍💻 All of my projects are available at [https://portfolio-tahrer.netlify.app/](https://portfolio-tahrer.netlify.app/)
 
 - 📫 If we share the same interests, don't hesitate to contact me
