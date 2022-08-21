@@ -1,8 +1,12 @@
 <h1 align='center'> Hi there 👋, I'm Tahrer 🤓🤖</h1>
 <h2 align='center'> I'm a Full-Stuck Developer </h2><br/>
 
+
+
 - 👀 I’m interested in technology, programming, Sci-fi👽🤖 & animation movies 📽️🍿 <br/> 
-      and football (RealMadrid fan)⚽🏆.<br/>   
+      and football (RealMadrid fan)⚽🏆.<br/> 
+- 💻  curently working on     
+      
       
 - 🌱 Currently seeking full time job where I can use my skills to make the world a better place  while learning from experts.<br/>
 
