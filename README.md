@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in technology, programming, Sci-fi👽🤖 & animation movies 📽️🍿 <br/> 
       and football (RealMadrid fan)⚽🏆.<br/> 
-- 💻  curently working on     
+- 💻  curently working on digital saving box.    
       
       
 - 🌱 Currently seeking full time job where I can use my skills to make the world a better place  while learning from experts.<br/>
