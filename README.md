@@ -1,7 +1,8 @@
 # 💫 About Me:
-Hi there 👋, I'm Tahrer 🤓🤖
-👀 I’m interested in technology, programming, Sci-fi👽🤖 & animation movies 📽️🍿 and football (RealMadrid fan)⚽🏆.
-👩‍💻I'm a Full-Stuck Developer<br><br> -💻 Currently working on [Digital saving boxes](https://github.com/tahrer007/saving-box).💳💸
+Hi there 👋, I'm Tahrer 🤓🤖, <br>
+👀 I’m interested in technology, programming, Sci-fi👽🤖 & animation movies 📽️🍿 and football (RealMadrid fan)⚽🏆. <br>
+👩‍💻I'm a Full-Stuck Developer <br>
+💻 Currently working on [Digital saving boxes](https://github.com/tahrer007/saving-box).💳💸<br>
 🌱 Currently seeking a full-time job where I can use my skills to make the world a better place while learning from experts.    
 
 
