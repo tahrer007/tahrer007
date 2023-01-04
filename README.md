@@ -2,7 +2,7 @@
 Hi there 👋, I'm Tahrer 🤓🤖, <br>
 👩‍💻I'm a Full-Stuck | Frontend Developer <br>
 👀 I’m interested in technology, programming, Sci-fi👽🤖 & animation movies 📽️🍿 and football (RealMadrid fan)⚽🏆. <br>
-🌱 Currently seeking a full-time job where I can use my skills to make the world a better place while learning from experts.    
+🌱 Currently seeking a full-time job where I can use my skills to make a positive impact and continue learning from experts in the field.
 
 
 ## 🌐 Socials:
